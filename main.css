@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Gravity_title;
+    src: url(fonts/Gravity-Bold.otf);
+}
+
+@font-face {
+    font-family: Gravity_para;
+    src: url(fonts/Gravity-Light.otf);
+}
